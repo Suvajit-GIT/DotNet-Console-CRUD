@@ -1,0 +1,17 @@
+D:\IECS-CRUD\bin\Debug\IECS-CRUD.exe.config
+D:\IECS-CRUD\bin\Debug\IECS-CRUD.exe
+D:\IECS-CRUD\bin\Debug\IECS-CRUD.pdb
+D:\IECS-CRUD\obj\Debug\IECS-CRUD.csproj.AssemblyReference.cache
+D:\IECS-CRUD\obj\Debug\IECS-CRUD.csproj.CoreCompileInputs.cache
+D:\IECS-CRUD\obj\Debug\IECS-CRUD.exe
+D:\IECS-CRUD\obj\Debug\IECS-CRUD.pdb
+G:\IECS-CRUD\bin\Debug\IECS-CRUD.exe.config
+G:\IECS-CRUD\bin\Debug\IECS-CRUD.exe
+G:\IECS-CRUD\bin\Debug\IECS-CRUD.pdb
+G:\IECS-CRUD\bin\Debug\Newtonsoft.Json.dll
+G:\IECS-CRUD\bin\Debug\Newtonsoft.Json.xml
+G:\IECS-CRUD\obj\Debug\IECS-CRUD.csproj.CoreCompileInputs.cache
+G:\IECS-CRUD\obj\Debug\IECS-CRUD.csproj.CopyComplete
+G:\IECS-CRUD\obj\Debug\IECS-CRUD.exe
+G:\IECS-CRUD\obj\Debug\IECS-CRUD.pdb
+G:\IECS-CRUD\obj\Debug\IECS-CRUD.csproj.AssemblyReference.cache
